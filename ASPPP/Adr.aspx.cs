@@ -14,6 +14,7 @@ namespace ASPPP
             if (!IsPostBack)
             {
                 Session["Application1_Data"] = "Application 1 Data";
+                Session["Application1_Data1"] = "Application 1 Data";
             }
             Response.Write("Identity used = " + System.Security.Principal.WindowsIdentity.GetCurrent().Name + "<br/>");
         }
