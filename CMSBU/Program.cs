@@ -11,6 +11,7 @@ namespace CMSBU
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
+        //ADDED CHANGE
         static void Main()
         {
             Application.EnableVisualStyles();
