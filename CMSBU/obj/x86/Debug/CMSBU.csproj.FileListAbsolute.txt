@@ -1,0 +1,31 @@
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\bin\Debug\CMSBU.exe
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\bin\Debug\CMSBU.pdb
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\bin\Debug\system.data.sqlite.dll
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.Form1.resources
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.Properties.Resources.resources
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.csproj.GenerateResource.Cache
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.exe
+c:\users\gohram khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.pdb
+C:\Users\Gohram Khan\Documents\Visual Studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.Contacts.resources
+C:\Users\Gohram Khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.USer.resources
+C:\Users\Gohram Khan\documents\visual studio 2010\Projects\CMSBU\CMSBU\obj\x86\Debug\CMSBU.csprojResolveAssemblyReference.cache
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\bin\Debug\CMSBU.exe
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\bin\Debug\CMSBU.pdb
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.csprojAssemblyReference.cache
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.Contacts.resources
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.Properties.Resources.resources
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.USer.resources
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.csproj.GenerateResource.cache
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.csproj.CopyComplete
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.exe
+D:\work\asp.net C#\ContactManagementSystem-master\CMSBU\obj\x86\Debug\CMSBU.pdb
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.exe
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.pdb
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\bin\Debug\CMSBU.exe
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\bin\Debug\CMSBU.pdb
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.Contacts.resources
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.Properties.Resources.resources
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.USer.resources
+C:\Users\Deepak\Downloads\Contact_Management_In_C_With_Source_Code\ContactManagementSystem\CMSBU\obj\x86\Debug\CMSBU.csproj.GenerateResource.Cache
